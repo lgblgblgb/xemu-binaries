@@ -1,5 +1,5 @@
-# Security
+# You are at the wrong place!
 
-This is a user program, without the need to be run as a privileges user, or without
-the effect to talk to network resources, and such. Thus, security is a kind of little
-concern currently. If you have anything to say on this though, you can signal it.
+This is the **binary** distribution site of my Xemu project!
+
+Please visit the project instead: https://github.com/lgblgblgb/xemu

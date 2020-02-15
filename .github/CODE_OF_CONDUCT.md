@@ -1,5 +1,5 @@
-# Contributor Code of Conduct
+# You are at the wrong place!
 
-In essence: "be nice with others".
+This is the **binary** distribution site of my Xemu project!
 
-That's all. Without any further blah-blah.
+Please visit the project instead: https://github.com/lgblgblgb/xemu
